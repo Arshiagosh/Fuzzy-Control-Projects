@@ -1,0 +1,3 @@
+Maximum Error: 0.329622
+MSE Error: 0.007802
+[elapsed 13.0 s]

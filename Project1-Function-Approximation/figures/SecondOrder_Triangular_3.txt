@@ -1,0 +1,6 @@
+Maximum value of d^2g/dx^2: 28.3685
+Calculated h: 0.0751
+Number of Membership Functions: 333
+Mean Squared Error (MSE): 5.5201e-05
+Max Error: 0.019935
+[elapsed 0.1 s]

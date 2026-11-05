@@ -1,0 +1,7 @@
+Estimated Parameters:
+theta_1 = 2.0000, theta_2 = 1.0000, theta_3 = 1.1000, theta_4 = 0.0000
+Error Metrics:
+Minimum Error: 0.000000
+Maximum Error: 0.000001
+MSE Error: 0.000000
+[elapsed 0.1 s]

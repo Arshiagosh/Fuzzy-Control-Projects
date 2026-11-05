@@ -1,0 +1,6 @@
+Fuzzy System Error Metrics:
+Minimum Error: 0.000629
+Maximum Error: 0.473859
+MSE Error: 0.030178
+Maximum Absolute Error: 0.473859
+[elapsed 0.1 s]

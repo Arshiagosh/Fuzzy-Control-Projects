@@ -1,0 +1,6 @@
+Maximum value of dg/dx: 8.8935
+Calculated h: 0.0022488
+Number of Membership Functions: 11117
+Mean Squared Error (MSE): 5.4174e-08
+Max Error: 0.005584
+[elapsed 0.4 s]
